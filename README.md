@@ -5,4 +5,4 @@
 
 # Reference
 1. Wu Y, Deng L, Li G, et al. Spatio-temporal backpropagation for training high-performance spiking neural networks[J]. Frontiers in neuroscience, 2018, 12: 331.
-2. Deng L, Wu Y, Hu Y, et al. Comprehensive snn compression using admm optimization and activity regularization[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
+2. Deng L*, Wu Y*(co-first), Hu Y, et al. Comprehensive snn compression using admm optimization and activity regularization[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
